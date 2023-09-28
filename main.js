@@ -32,4 +32,5 @@ const handleLeftClick = () => {
     nextGroup.dataset.status = "active";
     activeIndex = nextIndex;
   });
+  
 }
